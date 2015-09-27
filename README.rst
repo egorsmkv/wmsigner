@@ -16,10 +16,10 @@
 .. code:: shell
 
     # через pip
-    [sudo] pip install wmsigner
+    [sudo] pip3 install wmsigner
 
     # из репозитория
-    git clone https://github.com/egorsmkv/wm-signer
+    git clone https://github.com/egorsmkv/wmsigner
     cd wmsigner
     [sudo] python setup.py install
 
