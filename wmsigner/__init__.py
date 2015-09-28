@@ -16,7 +16,7 @@ WebMoney Signer
 from .signer import Signer
 
 __title__ = 'wmsigner'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __author__ = 'Egor Smolyakov'
 __license__ = 'MIT'
 __credits__ = [

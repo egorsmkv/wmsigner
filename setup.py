@@ -5,7 +5,7 @@ from distutils.core import setup
 ROOT = os.path.dirname(os.path.realpath(__file__))
 setup(
     name='wmsigner',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/egorsmkv/wmsigner',
     description='WebMoney Signer',
     long_description=open(os.path.join(ROOT, 'README.rst')).read(),
